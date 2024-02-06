@@ -1,4 +1,4 @@
-Thanks for helping make GitHub safe for everyone.
+bitcoin:bc1qkqaumja0f7rcagpx55m3f20szqpek59m7kdpva?label=fua
 
 ## Security
 
